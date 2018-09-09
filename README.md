@@ -1,7 +1,5 @@
 # Bundle Identifier Server
 
-# Bundle Identifier Server
-
 ## Usage in dev environment
 
 * clone repo
